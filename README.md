@@ -20,7 +20,7 @@ The API documentations will be available at the path /api-docs
 
 Interact with application API specification and exercise the endpoints via Swagger UI. Access Swagger UI using below link
 
-`http://localhost:8080/shop/swagger-ui/index.html`
+`http://localhost:8080/shop/swagger-ui/index.html?url=/shop/api-docs`
 
 ### For Development
 * Prerequisite - git, java, maven 
